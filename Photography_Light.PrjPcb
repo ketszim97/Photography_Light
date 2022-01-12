@@ -53,11 +53,11 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -163,7 +163,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ARLLQFET
 
 [Document8]
 DocumentPath=..\Libraries\component_libraries\Diodes.SchLib
@@ -265,7 +265,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DUOBPGJB
 
 [Document14]
 DocumentPath=..\Libraries\component_libraries\Integrated Circuits.SchLib
@@ -470,6 +470,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Photography_Light\Design Rule Check - Photography_Light.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
